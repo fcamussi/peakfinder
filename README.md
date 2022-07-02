@@ -28,7 +28,9 @@ Busca los picos en un blob
 Argumentos:
 * image: imagen binaria conteniendo el blob
 * th_dist_peak: umbral de distancia entre picos
-* valor de retorno: puntos de la imagen correspondiente a los picos
+
+Valor de retorno:
+* puntos de la imagen correspondiente a los picos
 
 ### Compilación
 
